@@ -1,0 +1,65 @@
+[
+  {
+    "id": "w1",
+    "title": "Begginer to pro HTML",
+    "price": "80",
+    "catagory": "web",
+    "author": "Giyash Uddin",
+    "img": "https://img.freepik.com/free-vector/web-design-background_1300-39.jpg?w=740&t=st=1666694274~exp=1666694874~hmac=4f2fe37727f21fabb3ff7725b165106da9e4002ef52b9d7f21e1883760a6e0a2",
+    "rating": "4.5"
+  },
+  {
+    "id": "w2",
+    "title": "Mastaring CSS",
+    "price": "100",
+    "catagory": "web",
+    "author": "Mir Islam",
+    "img": "https://img.freepik.com/free-vector/programmer-working-with-css_52683-24172.jpg?size=626&ext=jpg",
+    "rating": "5"
+  },
+  {
+    "id": "w3",
+    "title": "Bacome Boss at JavaScript",
+    "price": "80",
+    "catagory": "web",
+    "author": "Nur Islam",
+    "img": "https://img.freepik.com/free-vector/programmers-using-javascript-programming-language-computer-tiny-people-javascript-language-javascript-engine-js-web-development-concept_335657-2412.jpg?size=626&ext=jpg",
+    "rating": "4.7"
+  },
+  {
+    "id": "w4",
+    "title": "Web with React Js",
+    "price": "170",
+    "catagory": "web",
+    "author": "Sheldon Cooper",
+    "img": "https://img.freepik.com/free-vector/react-native-mobile-app-abstract-concept-illustration-cross-platform-native-mobile-app-development-framework-javascript-library-user-interface-operating-system_335657-3350.jpg?w=2000",
+    "rating": "4.7"
+  },
+  {
+    "id": "w5",
+    "title": "API with Express Js",
+    "price": "80",
+    "catagory": "web",
+    "author": "Leonard Hoffsgard",
+    "img": "https://img.freepik.com/free-vector/web-design-background_1300-39.jpg?w=740&t=st=1666694274~exp=1666694874~hmac=4f2fe37727f21fabb3ff7725b165106da9e4002ef52b9d7f21e1883760a6e0a2",
+    "rating": "4.5"
+  },
+  {
+    "id": "w6",
+    "title": "Introduction of JavaScript Framework",
+    "price": "120",
+    "catagory": "web",
+    "author": "Jack Sparrow",
+    "img": "https://miro.medium.com/max/1200/1*4cFhtuq6zRDqJ6p4s2pQ6g.jpeg",
+    "rating": "4.3"
+  },
+  {
+    "id": "w7",
+    "title": "Introduction of Node js",
+    "price": "90",
+    "catagory": "web",
+    "author": "Morbito albarto",
+    "img": "https://tsh.io/wp-content/uploads/2020/06/why-node-js.jpg",
+    "rating": "4.2"
+  }
+]
