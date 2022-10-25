@@ -4,62 +4,158 @@
     "title": "Begginer to pro HTML",
     "price": "80",
     "catagory": "web",
-    "author": "Giyash Uddin",
+    "instuctor_name": "Giyash Uddin",
+    "instuctor_images": "https://static.vecteezy.com/system/resources/previews/003/241/285/original/business-instructor-and-tutor-vector.jpg",
     "img": "https://img.freepik.com/free-vector/web-design-background_1300-39.jpg?w=740&t=st=1666694274~exp=1666694874~hmac=4f2fe37727f21fabb3ff7725b165106da9e4002ef52b9d7f21e1883760a6e0a2",
-    "rating": "4.5"
+    "rating": "4.5",
+    "review": "1293",
+    "desc_title": "Here You will learn all about HMTL and HTML5",
+    "desc": "Thanks to a growing number of software programs, it seems as if anyone can make a webpage. But what if you actually want to understand how the page was created? There are great textbooks and online resources for learning web design, but most of those resources require some background knowledge. This course is designed to help the novice who wants to gain confidence and knowledge. We will explore the theory (what actually happens when you click on a link on a webpage?), the practical (what do I need to know to make my own page?), and the overlooked (I have a page, what do I do now?). Throughout the course there will be a strong emphasis on adhering to syntactic standards for validation and semantic standards to promote wide accessibility for users with disabilities.  The textbook we use is available online, “The Missing Link: An Introduction to Web Development and Programming” by Michael Mendez from www.opensuny.org.This course will appeal to a wide variety of people, but specifically those who would like a step-by-step description of the basics. There are no prerequisites for this course and it is assumed that students have no prior programming skills or IT experience. The course will culminate in a small final project that will require the completion of a very simple page with links and images. The focus of this course is on the basics, not appearance.",
+    "skill": [
+      "Learn the basics of programming",
+      "How to Code in HTML",
+      "Text Formatting in HTML",
+      "Creating Links",
+      "Tables & Nested Tables",
+      "Embedding Iframes",
+      "Structure of an HTML Page",
+      "Structure of an HTML Page",
+      "Embedding Videos",
+      "Anchor Tags",
+      "Building Forms",
+      "nserting Images"
+    ]
   },
   {
     "id": "w2",
     "title": "Mastaring CSS",
     "price": "100",
     "catagory": "web",
-    "author": "Mir Islam",
+    "instuctor_name": "Mir Islam",
+    "instuctor_images": "https://static.vecteezy.com/system/resources/previews/003/241/285/original/business-instructor-and-tutor-vector.jpg",
     "img": "https://img.freepik.com/free-vector/programmer-working-with-css_52683-24172.jpg?size=626&ext=jpg",
-    "rating": "5"
+    "rating": "4",
+    "review": "1033",
+    "desc_title": "Here you can learn CSS and CSS animation",
+    "desc": " Have you ever wanted to learn to code but don't know where to start? Learning how to code can get you a better job and lead to a better future. In this tutorial series you get to learn about CSS. CSS is the number design language for the web. CSS is easy to learn and it is used in most web development today. This course is a 1 hour course of action packed material. By the end of it you will have a firm understanding of the concepts of CSS. The best part is that this is for complete beginners! Coding is a fantastic career to get into and this is the first course you should take. All web developers start with CSS and it is by far the easiest language to learn. CSS stands for cascading style sheets and it is the what makes websites look good. Before CSS, websites didn't look good at all.Just think of all of the things you can do in 1 hour and imagine learning a whole new skill. That's why these 1 hour lessons are so valuable. Take a look at the reviews, they speak for themselves.What are you waiting for, enroll today.",
+    "skill": [
+      "Learn how to become a web developer",
+      "Learn CSS",
+      "Learn how to design websites",
+      "apply CSS to HTML pages",
+      "learn about CSS syntax",
+      "Get the ball rolling for a career in web design",
+      "Build a portfolio website, so you can highlight your best web work",
+      "CSS animation"
+    ]
   },
   {
     "id": "w3",
     "title": "Bacome Boss at JavaScript",
     "price": "80",
     "catagory": "web",
-    "author": "Nur Islam",
+    "instuctor_name": "Nur iIslam",
+    "instuctor_images": "https://static.vecteezy.com/system/resources/previews/003/241/285/original/business-instructor-and-tutor-vector.jpg",
     "img": "https://img.freepik.com/free-vector/programmers-using-javascript-programming-language-computer-tiny-people-javascript-language-javascript-engine-js-web-development-concept_335657-2412.jpg?size=626&ext=jpg",
-    "rating": "4.7"
+    "rating": "3.5",
+    "review": "1305",
+    "desc_title": "Here You will Learn Basic to Advanced Javascript",
+    "desc": "Take this Javascript training course and start learning Javascript today.As a business guy I have no place in programming. Ten years ago you could have gotten away with that statement. Today you say that to your colleagues and they scoff at you before they go back to their computers to fix real problems and do real work.If you want to do something useful start by learning Javascript . In these days when the browser is central to all computer use knowing 'the language of the browser' is the most important step. A few years ago Javascript potential was uncertain and many programmers considered it useless. These days however competent programmers have identified Javascript real potential and uses and it has gone from a toy language to the main language of the browser. It has become one of the most useful languages of this era. Every developer needs at least a basic understanding of Javascript. A developer who knows Javascript is the rockstar of the company and is in constant demand by employers. Our online Javascriptcourse will get you started by teaching all the essential aspects of coding in Javascript. So... what's it gonna be? Do you want to supercharge your career and be in constant demand by employers? Do you want to learn how to create dynamic and innovative Javascript documents? Start programming today with our Javascript course for Beginners training and take control of your career.",
+    "skill": [
+      "Extensive, informative and interesting video lectur",
+      "Lab Exercises",
+      "All Powerpoint Demonstrations Used in Course",
+      "Coverage of all important primary Javascript concepts",
+      "Complete Code demonstrated in lecture",
+      "Lab Solution Sets",
+      "Instructor contact Email for questions and clarifications"
+    ]
   },
   {
     "id": "w4",
     "title": "Web with React Js",
     "price": "170",
     "catagory": "web",
-    "author": "Sheldon Cooper",
+    "instuctor_name": "Sheldon Cooper",
+    "instuctor_images": "https://static.vecteezy.com/system/resources/previews/003/241/285/original/business-instructor-and-tutor-vector.jpg",
     "img": "https://img.freepik.com/free-vector/react-native-mobile-app-abstract-concept-illustration-cross-platform-native-mobile-app-development-framework-javascript-library-user-interface-operating-system_335657-3350.jpg?w=2000",
-    "rating": "4.7"
+    "rating": "3.7",
+    "review": "1403",
+    "desc_title": "Here you will learn Basic React with Project",
+    "desc": "This short course will cover basic and core concepts that you need to know to get up and running with ReactJS.React JS is a Javascript library for building user interfaces. It's flexible, fast, easy to learn and fun to work with. ReactJS is designed to make the process of building modular, reusable user interface components simple and intuitive. React was developed at Facebook and focuses on the 'View' aspect of MVC in web applications. React was built for the purpose of developing applications that are large in nature and have to deal with time changing data.Also in this course, it will get you up to speed quickly with easy to follow short videos. It is project-oriented with hands-on examples, from simple to complex, that will help you with the most fundamentals concepts of React like React custom syntax and the JSX transform, components, properties and state, The power of the virtual DOM",
+    "skill": [
+      "Taste of how to build your very first React component.",
+      "How to handle event in components.",
+      "Understand two key concepts of React: State and Props.",
+      "How to reuse and nest components.",
+      "How to transfer data between Parent, Child components.",
+      "How to transfer data between Parent, Child components.",
+      "How to work with Array, Form"
+    ]
   },
   {
     "id": "w5",
     "title": "API with Express Js",
     "price": "80",
     "catagory": "web",
-    "author": "Leonard Hoffsgard",
+    "instuctor_name": "Leonard Hoffsward",
+    "instuctor_images": "https://static.vecteezy.com/system/resources/previews/003/241/285/original/business-instructor-and-tutor-vector.jpg",
     "img": "https://img.freepik.com/free-vector/web-design-background_1300-39.jpg?w=740&t=st=1666694274~exp=1666694874~hmac=4f2fe37727f21fabb3ff7725b165106da9e4002ef52b9d7f21e1883760a6e0a2",
-    "rating": "4.5"
+    "rating": "4.5",
+    "review": "1203",
+    "desc_title": "Here you can learn How to make an api with Express Js",
+    "desc": "This course offers an introduction to API Security with OAuth 2.0. In 3 hours you will gain an overview of the capabilities of OAuth. You will learn the core concepts of OAuth. You will get to know all 4 OAuth flows that are used in cloud solutions and mobile apps.If you have tried to read the official OAuth specification, you may get the impression that OAuth is complex. This course explains OAuth in simple terms. The four OAuth flows are visualized graphically using sequence diagrams. The diagrams are then animated so you get to know the interactions step by step and see the big picture of the various OAuth interactions. This high-level overview is complemented with a rich set of example requests and responses and an explanation of the technical details.API Security experts and engineers who understand OAuth are in HIGH DEMAND, as companies expand their digital business. Plenty of opportunities are waiting for anyone who has the right skills.",
+    "skill": [
+      "Use OAuth to access Google, Paypal, LinkedIn and Facebook APIs",
+      "Use OAuth to protect your APIs and Cloud Solutions",
+      "Choose the correct OAuth Flow flow for your use-case.",
+      "Read and understand structured data in JSON formats.",
+      "Write documentation for JSON files, for API documentation or other types of documentation.",
+      "Understand how to edit JSON and XML for tools that generate documentation."
+    ]
   },
   {
     "id": "w6",
-    "title": "Introduction of JavaScript Framework",
+    "title": "Introduction to TypeScript",
     "price": "120",
     "catagory": "web",
-    "author": "Jack Sparrow",
+    "instuctor_name": "Jack Sparrow",
+    "instuctor_images": "https://static.vecteezy.com/system/resources/previews/003/241/285/original/business-instructor-and-tutor-vector.jpg",
     "img": "https://miro.medium.com/max/1200/1*4cFhtuq6zRDqJ6p4s2pQ6g.jpeg",
-    "rating": "4.3"
+    "rating": "4.3",
+    "review": "1203",
+    "desc_title": "Here you will learn basic Introduction of Typecript programming language",
+    "desc": "Do you want to build Angular, React JS, or Vue JS web and mobile applications? If that's your goal it's vital that you learn the TypeScript programming language, and that's exactly what we're going to walk through in this course. My name is Jordan Hudgens, and I'll be your instructor for the course. In addition to being the lead instructor for devCamp I've also been building web applications for over a decade for organizations such as Eventbrite and Quip.After you have completed this course you'll be ready to start learning how to work with the React, Vue and Angular application frameworks. Angular 2 was rebuilt from the ground up in order to take advantage of modern development practices, and the framework creators actually built the new version completely in the TypeScript programming language. This is the reason why TypeScript is so important to learn for aspiring Angular developers.In this course we're going to start with the basics and I'm going to show you how fun it is to build TypeScript programs. After you're familiar with the syntax, we're going to move onto more advanced TypeScript development techniques, such as: working with closures, object oriented programming, real time asynchronous development, and decorators.My focus for this course isn't to teach you how to build TypeScript console applications. Instead, my goal is to teach you the skills you will need in order to build real world Angular 2 applications. And actually, this course includes the exact material we teach at our devCamp coding bootcamps prior to students going through our immersive Angular 2 course.There are no technical pre-requisites to this course. The ideal student is an individual who wants to learn how to build Angular 2 applications. I will show you how to install and run TypeScript programs on both a Mac and a PC. And you can use either operating system to follow along with the course material.Each lesson of the course is paired with the source code that I used in the lecture so you can check your work.Please feel free to review the course curriculum and I look forward to going through the material with you on your development journey!",
+    "skill": [
+      "Be ready to move onto building Angular, React and Vue applications.",
+      "Code with the TypeScript programming language.",
+      "Work with TypeScript classes and object oriented programming concepts.",
+      "Use TypeScript and its Features like Types, ES6 Support, Classes, Modules, Interfaces and much more in any of their Projects",
+      "Learn how to combine TypeScript with ReactJS or NodeJS / Express",
+      "Learn TypeScript both in theory as well as applied to real use-cases and projects"
+    ]
   },
   {
     "id": "w7",
     "title": "Introduction of Node js",
     "price": "90",
     "catagory": "web",
-    "author": "Morbito albarto",
+    "instuctor_name": "Morbito Albarto",
+    "instuctor_images": "https://static.vecteezy.com/system/resources/previews/003/241/285/original/business-instructor-and-tutor-vector.jpg",
     "img": "https://tsh.io/wp-content/uploads/2020/06/why-node-js.jpg",
-    "rating": "4.2"
+    "rating": "3",
+    "review": "1503",
+    "desc_title": "Here you will learn basic Node js and how Backand work",
+    "desc": "NodeJS is a rapidy growing web server technology, and Node developers are among the highest paid in the industry. Knowing NodeJS well will get you a job or improve your current one by enabling you to build high quality, robust web applications.In this course you will gain a deep understanding of Node, learn how NodeJS works under the hood, and how that knowledge helps you avoid common pitfalls and drastically improve your ability to debug problems.In this course we'll look at how the C++ written V8 Javascript engine works and how NodeJS uses it to expand the abilities of Javascript. You'll learn how to structure your code for reuse and to be easier to understand, manage, and expand using modules and understand how modules really work.You'll learn how asynchronous code works in Node and the Node event loop, as well as how to use the event emitter, streams, buffers, pipes, and work with files. We'll see how that leads to building a web server in Node.We'll dive into web sites, web apps and APIs with Express and learn how Express can save us time as Node developers.You'll also gain an understanding of npm, connecting to databases, and the MEAN stack!During it all you'll gain a deep understanding of the Javascript concepts and other computer science concepts that power Node.NodeJS doesn't have to be hard to learn. The biggest mistake most coding tutorials make is expecting someone to learn simply by imitating others' code. Real world situations are never exactly like the tutorial.I believe the best way to learn is to understand how a tool works and what it does for you, look at examples, and then try it yourself. That's how this course is built, with the goal to help you both learn and understand NodeJS.Note: In this course you'll also get downloadable source code. You will often be provided with 'starter' code, giving you the base for you to start writing your code, and 'finished' code to compare your code to.",
+    "skill": [
+      "Grasp how NodeJS works under the hood",
+      "Structure a Node application in modules",
+      "Use npm and manage node packages",
+      "Connect to a SQL or Mongo database in Node",
+      "Understand the Javascript and technical concepts behind NodeJS",
+      "Understand and use the Event Emitter",
+      "Build a Web Server in Node and understand how it really works",
+      "Understand how the MEAN stack works"
+    ]
   }
 ]

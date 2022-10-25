@@ -12,7 +12,8 @@ app.get("/", (req, res) => {
 
 app.get('/course', (req, res) => {
   res.send(courses)
-})
+});
+
 
 
 
