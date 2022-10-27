@@ -1,0 +1,26 @@
+[
+    {
+        "id":"b1",
+        "questions" :"What is Cors?",
+        "img":"https://cdn.pellerex.com/public/ecosystem/web/content/api-cors/pellerex-asp-net-5-web-api-cors.png",
+        "ans":"Cors full meaning is Cross-Origin Resource Sharing . Cross-Origin Resource Sharing (CORS) is an HTTP-header based mechanism that allows a server to indicate any origins (domain, scheme, or port) other than its own from which a browser should permit loading resources. CORS also relies on a mechanism by which browsers make a 'preflight' request to the server hosting the cross-origin resource, in order to check that the server will permit the actual request. In that preflight, the browser sends headers that indicate the HTTP method and headers that will be used in the actual request. For security reasons, browsers restrict cross-origin HTTP requests initiated from scripts.A web application using Local APIs can only request resources from the same origin the application was loaded from unless the response from other origins includes the right CORS headers. The CORS mechanism supports secure cross-origin requests and data transfers between browsers and servers. Modern browsers use CORS in APIs such as XMLHttpRequest or Fetch to mitigate the risks of cross-origin HTTP requests."
+    },
+    {
+        "id":"b2",
+        "questions" :" Why are you using firebase? What other options do you have to implement authentication?",
+        "img":"https://res.cloudinary.com/practicaldev/image/fetch/s--ytGTW9Vg--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://thepracticaldev.s3.amazonaws.com/i/cufhvx44o66bb32ll2l8.png",
+        "ans":"FireBase is Backend server and hosting side. It's user friendly and give users a quick, intuitive sign-in process with Firebase Authentication. It's allow to sign in user app with Email, Google, FaceBook, GitHub and etc. It uses Google Analytics for Firebase to log events at every step of your onboarding flow, create funnels to see where users are dropping off, and use Remote Config to make changes to your app to see how it affects conversions. It also gives user a good exprience by customizing the initial screen based on their preferences, usage history, location, or language. And There are also so many alternative of fireBase you can use. They are, mongoDB(most populer), Oracle Database, Amazon RedShift, DataStax Enterprise, Redis Enterprise Cloud."
+    },
+    {
+        "id":"b1",
+        "questions" :"How does the private route work?",
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFI3WUT9Zzqa1V5tcD47l7uwI5cGNd2Bzmtg&usqp=CAU  ",
+        "ans":"React Router is one of the most important components of React ecosystem.The private route component is used to protect selected pages in a React app from unauthenticated users.PrivateRoute component also is the blueprint for all private routes in the application. If the user is logged in, go on and display the component in question; otherwise, redirect the user to sign-in page. Additionally, we can define the logic of isLogin utility function separately in utils folder. That's how we can manage to what page a user and non-user should see."
+    },
+    {
+        "id":"b1",
+        "questions" :"What is Node? How does Node work?",
+        "img":"https://cdn.pixabay.com/photo/2015/04/23/17/41/node-js-736399__480.png",
+        "ans":"Node js is an open-source, cross-platform JavaScript runtime environment. Node allows developers to write JavaScript code that runs directly in a computer process itself instead of in a browser. Node can, therefore, be used to write server-side applications with access to the operating system, file system, and everything else required to build fully-functional applications. Node provides access to several important global objects for use with Node program files. When writing a file that will run in a Node environment, these variables will be accessible in the global scope of your file. Also, Node has a many built-in modules to aid in interactions with the command line, the computer file system, and the Internet. Node uses I/O moddel,this means that Node is built well to handle asynchronous JavaScript code to perform many asynchronous activities such as reading and writing to the file system, handling connections to database servers, or handling requests as a web server. To handle asynchronous code, Node uses a callback-based system. Node functions and methods that will implement some asynchronous activity take a callback function. This callback will be called whenever the asynchronous operation has resolved. By convention, the first argument of this callback is an error placeholder. If an error occurred in the asynchronous operation occurred (trying to read a non-existent file, for example), the error argument will be an Error object, but it will be null if no error occurs."
+    }
+]
